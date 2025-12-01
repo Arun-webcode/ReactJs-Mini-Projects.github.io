@@ -1,10 +1,6 @@
 # QR Code Generator
-<<<<<<< HEAD
 
 <a href="https://qr-generator-webcode.netlify.app/">For Live Demo Click Here</a>
-=======
-<a href = "https://qr-generator-webcode.netlify.app/" >For live link Click here</a> 
->>>>>>> 2148d4f3abd50bb56161ddfd4947d63fb6c612f8
 This project is a QR Code Generator built using React. It allows users to input text, select the background colour, and adjust the dimensions to generate a QR code. The generated QR code can be downloaded as well.
 
 ## Features
@@ -61,8 +57,3 @@ src/
 ├── index.css
 ├── main.jsx
 └── index.html
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
